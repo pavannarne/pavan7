@@ -1,14 +1,14 @@
 package pavan7;
 
-public class MyFirstJavaProgram 
+public class MyFirstJavaProgram
 
 {
 
-    public static void main(String []args)
-    
-    {
-    	
-       System.out.println("Hello World");
-       
-    }
-} 
+	public static void main(String[] args)
+
+	{
+
+		System.out.println("Hello World");
+
+	}
+}
